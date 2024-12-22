@@ -5,8 +5,8 @@ Esse projeto é um aplicativo Android nativo densevolvido na linguagem em Kotlin
 <img src=https://github.com/user-attachments/assets/bd2543c4-9185-4049-9ade-1ba7c2530e3e width=200/>
 <img src=https://github.com/user-attachments/assets/462d830e-5e8c-47fd-befd-83adda64dc0d width=200/>
 
+## Tecnologias
 
-##Tecnologias
 - Activity
 - Intent
 - SnackBar
