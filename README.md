@@ -1,19 +1,23 @@
+# Calculadora de churrasco
+Esse projeto é um aplicativo Android nativo densevolvido na linguagem em Kotlin. Tem como principal funcionalidade fazer o cálculo de quanto de carne, cerveja e refrigerante para fazer o seu churrasco ideal e mostrar o valor na interface seguinte.
+
+## Screenchots 
+<img src=https://github.com/user-attachments/assets/bd2543c4-9185-4049-9ade-1ba7c2530e3e width=200/>
+<img src=https://github.com/user-attachments/assets/462d830e-5e8c-47fd-befd-83adda64dc0d width=200/>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+##Tecnologias
+- Activity
+- Intent
+- SnackBar
+- View Groups
+  - LinearLayout
+  - ConstranitLayout
+- Views 
+  - ImageView
+  - TextView
+  - EditText
+  - Button
 
 
 ## License
